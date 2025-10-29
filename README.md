@@ -3,8 +3,8 @@
 Автоматизация сценария: создание заказа и получение по треку.
 
 ## Установка
-1. Активируй venv: `source venv/bin/activate` (macOS/Linux) или `venv\Scripts\activate` (Windows).
-2. Установи пакеты: `pip install -r requirements.txt` (создай файл ниже, если нужно).
+1. Активируй venv:  `venv\Scripts\activate`.
+2. Установи пакеты: `pip install -r requirements.txt`
 
 ## Запуск тестов
 `pytest test_orders.py -v`
@@ -15,3 +15,4 @@
 - test_orders.py: Тесты.
 
 API: https://036bc560-b799-4c1e-afb9-b5c662a82646.serverhub.praktikum-services.ru
+
